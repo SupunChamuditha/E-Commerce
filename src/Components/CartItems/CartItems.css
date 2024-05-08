@@ -1,0 +1,9 @@
+.cartItems{
+    margin: 100px 170px;
+}
+
+.cartItems hr{
+    height: 3px;
+    background: #e2e2e2;
+    border: 0;
+}
